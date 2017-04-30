@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
+ * WISDM Projecteki hatalı yazılan readFile fonksiyonu @author kivanceren tarafından düzeltilmiştir.
+ * 
  * WISDM project research program
  * http://storm.cis.fordham.edu/~gweiss/wisdm
  * 
